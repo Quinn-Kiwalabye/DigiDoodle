@@ -18,6 +18,9 @@
     "nodemon": "^3.0.1",
     "openai": "^3.1.0"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "devDependencies": {
     "eslint": "^8.31.0",
     "eslint-config-airbnb-base": "^15.0.0",
